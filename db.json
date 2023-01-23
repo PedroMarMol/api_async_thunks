@@ -37,6 +37,12 @@
       "id": 10
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 123,
+      "title": "Blonde",
+      "userId": 1
+    }
+  ],
   "photos": []
 }
