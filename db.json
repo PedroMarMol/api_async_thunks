@@ -1,5 +1,42 @@
 {
-    "users": [],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Benny Lind",
+      "id": 5
+    },
+    {
+      "name": "Verna Runte MD",
+      "id": 6
+    },
+    {
+      "name": "Dr. Freda Ziemann",
+      "id": 7
+    },
+    {
+      "name": "Jamie Bogisich",
+      "id": 8
+    },
+    {
+      "name": "Samantha Kuhn",
+      "id": 9
+    },
+    {
+      "name": "Jermaine Kihn",
+      "id": 10
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
