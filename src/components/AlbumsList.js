@@ -1,7 +1,6 @@
 import { 
   useFetchAlbumsQuery, 
-  useAddAlbumMutation,
-  useRemoveAlbumMutation 
+  useAddAlbumMutation
 } from '../store';
 import Skeleton from './Skeleton';
 import ExpandablePanel from './ExpandablePanel';
@@ -11,7 +10,6 @@ import AlbumsListItem from './AlbumsListItem';
 function AlbumsList({ user }) {
   const { data, error, isLoading } = useFetchAlbumsQuery(user);
   const [addAlbum, results] = useAddAlbumMutation();
-  const [removeAlbum, removeAlbumResults] = useRemoveAlbumMutation();
 
   const handleAddAlbum = () => {
     addAlbum(user);
