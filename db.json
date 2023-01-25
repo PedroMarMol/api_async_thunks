@@ -52,6 +52,16 @@
       "userId": 1,
       "title": "Incredible Fresh Shoes",
       "id": 125
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Wooden Bacon",
+      "id": 126
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Metal Gloves",
+      "id": 127
     }
   ],
   "photos": []
