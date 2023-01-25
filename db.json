@@ -67,6 +67,21 @@
       "userId": 1,
       "title": "Handmade Granite Shirt",
       "id": 128
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Plastic Salad",
+      "id": 129
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Plastic Chair",
+      "id": 130
+    },
+    {
+      "userId": 1,
+      "title": "Handcrafted Bronze Chips",
+      "id": 131
     }
   ],
   "photos": []
