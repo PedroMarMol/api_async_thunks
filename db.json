@@ -5,14 +5,6 @@
       "name": "Myra"
     },
     {
-      "name": "Elsie Price",
-      "id": 3
-    },
-    {
-      "name": "Harold Strosin",
-      "id": 4
-    },
-    {
       "name": "Benny Lind",
       "id": 5
     },
@@ -38,26 +30,6 @@
     }
   ],
   "albums": [
-    {
-      "userId": 1,
-      "title": "Unbranded Soft Salad",
-      "id": 124
-    },
-    {
-      "userId": 1,
-      "title": "Incredible Fresh Shoes",
-      "id": 125
-    },
-    {
-      "userId": 1,
-      "title": "Rustic Wooden Bacon",
-      "id": 126
-    },
-    {
-      "userId": 1,
-      "title": "Rustic Metal Gloves",
-      "id": 127
-    },
     {
       "userId": 1,
       "title": "Handmade Granite Shirt",
