@@ -42,6 +42,16 @@
       "id": 123,
       "title": "Blonde",
       "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Soft Salad",
+      "id": 124
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Fresh Shoes",
+      "id": 125
     }
   ],
   "photos": []
