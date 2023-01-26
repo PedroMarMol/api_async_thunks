@@ -32,16 +32,6 @@
   "albums": [
     {
       "userId": 1,
-      "title": "Handmade Granite Shirt",
-      "id": 128
-    },
-    {
-      "userId": 1,
-      "title": "Ergonomic Plastic Salad",
-      "id": 129
-    },
-    {
-      "userId": 1,
       "title": "Ergonomic Plastic Chair",
       "id": 130
     },
@@ -59,6 +49,26 @@
       "userId": 1,
       "title": "Modern Soft Computer",
       "id": 133
+    },
+    {
+      "userId": 7,
+      "title": "Oriental Bronze Tuna",
+      "id": 135
+    },
+    {
+      "userId": 9,
+      "title": "Handcrafted Metal Sausages",
+      "id": 136
+    },
+    {
+      "userId": 9,
+      "title": "Gorgeous Wooden Chicken",
+      "id": 137
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Frozen Chair",
+      "id": 138
     }
   ],
   "photos": []
