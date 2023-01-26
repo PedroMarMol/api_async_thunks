@@ -1,5 +1,5 @@
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
-import { Faker } from '@faker-js/faker';
+import { faker } from '@faker-js/faker';
 
 const photosApi = createApi({
 	reducerPath: 'photos',
@@ -26,7 +26,7 @@ const photosApi = createApi({
 						url: '/photos',
 						body: {
 							albumId: album.id,
-							url: Faker.image.abstract(150, 150, true),
+							url: faker.image.abstract(150, 150, true),
 						},
 					};
 				},
